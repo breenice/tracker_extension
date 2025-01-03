@@ -1,0 +1,11 @@
+{
+    "name": "Player Tracker",
+    "version": "1.0.0",
+    "description": "gamify your life",
+    "manifest_version": 3,
+    "author": "Breenice Lee",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Player Tracker"
+    }
+}
